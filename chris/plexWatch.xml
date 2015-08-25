@@ -14,7 +14,7 @@
   </Description>
   <Registry>https://hub.docker.com/r/cdp181/plexwatch/</Registry>
   <GitHub>https://github.com/cdp181/plexWatch</GitHub>
-  <Repository>chris/plexwatch</Repository>
+  <Repository>cdp181/plexwatch</Repository>
   <Support>http://lime-technology.com/forum/index.php?topic=33822.0</Support>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
