@@ -12,8 +12,8 @@
     [b]/plexWatch[/b] : in this path, plexWatch will store it's configuration files.[br]
     [b]/logs[/b] : in this path plexWatch will store it's logs.
   </Description>
-  <Registry>https://registry.hub.docker.com/u/needo/plexwatch/</Registry>
-  <GitHub>https://github.com/needo37/plexWatch</GitHub>
+  <Registry>https://hub.docker.com/r/cdp181/plexwatch/</Registry>
+  <GitHub>https://github.com/cdp181/plexWatch</GitHub>
   <Repository>needo/plexwatch</Repository>
   <Support>http://lime-technology.com/forum/index.php?topic=33822.0</Support>
   <BindTime>true</BindTime>
