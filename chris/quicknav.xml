@@ -8,7 +8,7 @@
   </Overview>
   <Description>
     Create a page with links and status[br][br]
-    [b]/config[/b] : sqlite database location[br]
+    [b]/data[/b] : sqlite database location[br]
   </Description>
   <Registry>https://hub.docker.com/r/cdp181/quicknav/</Registry>
   <GitHub>https://github.com/cdp181/quicknav</GitHub>
