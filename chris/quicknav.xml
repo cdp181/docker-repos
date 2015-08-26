@@ -35,7 +35,7 @@
   <Data>
     <Volume>
       <HostDir>/mnt/user/appdata/quicknav</HostDir>
-      <ContainerDir>/config</ContainerDir>
+      <ContainerDir>/data</ContainerDir>
       <Mode>rw</Mode>
     </Volume>
   </Data>
