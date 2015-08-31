@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Container>
   <Beta>False</Beta>
-<Category>MediaApp:Video</Category>
+<Category>Tools:</Category>
   <Name>quicknav</Name>
   <Overview>
     Create page with links to your devices and applications with status.
