@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Container>
+  <Beta>False</Beta>
+<Category>Tools:</Category>
+  <Name>zap2xml</Name>
+  <Overview>
+    Create page with links to your devices and applications with status.
+  </Overview>
+  <Description>
+    Create a page with links and status[br][br]
+    [b]/data[/b] : sqlite database location[br]
+  </Description>
+  <Registry>https://hub.docker.com/r/cdp181/zap2xml/</Registry>
+  <GitHub>https://github.com/cdp181/zap2xml</GitHub>
+  <Repository>cdp181/quicknav</Repository>
+  <Support></Support>
+  <BindTime>true</BindTime>
+  <Privileged>false</Privileged>
+  <Environment>
+    <Variable>
+      <Name></Name>
+      <Value></Value>
+    </Variable>
+  </Environment>
+  <Networking>
+    <Mode>host</Mode>
+    <Publish>
+      <Port>
+        <HostPort>21337</HostPort>
+        <ContainerPort>21337</ContainerPort>
+        <Protocol>tcp</Protocol>
+      </Port>
+    </Publish>
+  </Networking>
+  <Data>
+    <Volume>
+      <HostDir>/mnt/user/appdata/quicknav</HostDir>
+      <ContainerDir>/data</ContainerDir>
+      <Mode>rw</Mode>
+    </Volume>
+  </Data>
+  <WebUI>http://[IP]:[PORT:21337]/</WebUI>
+  <Banner>http://i.imgur.com/QkAUWqZ.png</Banner>
+  <Icon>http://i.imgur.com/QkAUWqZ.png</Icon>
+</Container>
