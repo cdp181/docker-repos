@@ -12,7 +12,7 @@
   </Description>
   <Registry>https://hub.docker.com/r/cdp181/zap2xml/</Registry>
   <GitHub>https://github.com/cdp181/zap2xml</GitHub>
-  <Repository>cdp181/quicknav</Repository>
+  <Repository>cdp181/zap2xml</Repository>
   <Support></Support>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
