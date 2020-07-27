@@ -9,6 +9,7 @@
   <Description>
     Create a page with links and status[br][br]
     [b]/data[/b] : sqlite database location[br]
+    [b]/appdata[/b] : location of Sonarr and Radaar sqlite DBS[br]
   </Description>
   <Registry>https://hub.docker.com/r/cdp181/quicknav/</Registry>
   <GitHub>https://github.com/cdp181/quicknav</GitHub>
